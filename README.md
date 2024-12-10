@@ -16,4 +16,4 @@ O motivo de eu ter criado essa API é por conta de um projeto que estou tentando
 
 2. Instale as dependências necessárias:
    ```bash
-   npm install express
+   npm install

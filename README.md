@@ -1,6 +1,8 @@
 # Projeto de Galos 🐔
 
-Uma API divertida para gerar imagens aleatórias de galos.
+Uma API que gera fotos aleatórias de galos.
+
+O motivo de eu ter criado essa API é por conta de um projeto que estou tentando tirar do papel e futuramente irei postar aqui no github.
 
 ## Tecnologias Utilizadas
 - Node.js

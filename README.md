@@ -2,14 +2,10 @@
 
 Uma API divertida para gerar imagens aleatórias de galos.
 
-## Demonstração
-![Imagem de Galo](https://via.placeholder.com/300)
-
 ## Tecnologias Utilizadas
 - Node.js
 - Express.js
 - JavaScript
-- HTML/CSS
 
 ## Instalação
 1. Clone o repositório:

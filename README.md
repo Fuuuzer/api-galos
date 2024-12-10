@@ -1,6 +1,21 @@
-<h1>Galos Foda API</h1>
-<p>API que retorna imagens aleatórias de galos para um projeto que estuo desenvolvendo.</p>
+# Projeto de Galos 🐔
 
-<h2>Dependências</h2>
-<p>Instalar o express para rodar a aplicação</p>
-<p>npm install express --save</p>
+Uma API divertida para gerar imagens aleatórias de galos.
+
+## Demonstração
+![Imagem de Galo](https://via.placeholder.com/300)
+
+## Tecnologias Utilizadas
+- Node.js
+- Express.js
+- JavaScript
+- HTML/CSS
+
+## Instalação
+1. Clone o repositório:
+   ```bash
+   git clone (https://github.com/Fuuuzer/api-galos)
+
+2. Instale as dependências necessárias:
+   ```bash
+   npm install express

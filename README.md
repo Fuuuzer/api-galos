@@ -3,3 +3,4 @@
 
 <h2>Dependências</h2>
 <p>Instalar o express para rodar a aplicação</p>
+<p>npm install express --save</p>

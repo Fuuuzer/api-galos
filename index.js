@@ -1,11 +1,21 @@
 const express = require('express');
 const path = require('path');
-const fs = require('fs')
+const fs = require('fs');
+const rateLimit = require('express-rate-limit');
 
 const app = express();
 const PORT = 3000;
 
 const imagesDir = path.join(__dirname, 'public/images');
+
+
+const limiter = rateLimit({
+  windowMs: 60 * 1000,
+  max: 1,
+  message: 'Máximo de requisições atigindo.'
+})
+
+app.use(limiter)
 
 app.get('/random-galo', (req, res) => {
   fs.readdir(imagesDir, (err, files) => {

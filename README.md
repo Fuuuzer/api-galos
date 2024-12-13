@@ -8,6 +8,8 @@ O motivo de eu ter criado essa API é por conta de um projeto que estou tentando
 - Node.js
 - Express.js
 - JavaScript
+- Express rate limit
+- CORS (não por agora mas depois irei usar)
 
 ## Instalação
 1. Clone o repositório:
